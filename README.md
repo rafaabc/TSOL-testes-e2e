@@ -1,3 +1,5 @@
+[![End-to-end tests 🧪](https://github.com/rafaabc/TSOL-testes-e2e/actions/workflows/cy.yml/badge.svg)](https://github.com/rafaabc/TSOL-testes-e2e/actions/workflows/cy.yml)
+
 # Cypress e2e
 
 Projeto de testes e2e para apresentação da matéria de Testes Sistemáticos de Software - PUC-MG da pós graduação em Engenharia de Software.
