@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe('The Internet - Herokuapp - Login Page V1', () => {
+describe('The Internet - Herokuapp - Login Page V0', () => {
     
     it('Login com sucesso', () => {
         //ARRANGE
